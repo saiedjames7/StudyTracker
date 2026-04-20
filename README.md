@@ -93,9 +93,9 @@ The application includes the following enhancements:
 
 ## Known Limitations
 
-* Requires manual activation of the virtual environment before running
+* I recommend manual activation of the virtual environment before running (May work without using virtual environment)
 * Data is stored locally (no cloud storage or backup)
 
 ## Notes for Marker
 
-Please ensure the virtual environment is activated before running the program. The application will automatically generate required data files if they do not already exist.
+If using a virtual environment, please ensure the virtual environment is activated before running the program. The application will automatically generate required data files if they do not already exist.
