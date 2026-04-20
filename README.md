@@ -4,6 +4,9 @@
 
 The Study Tracker is a Python-based application designed to help students manage and organise their study sessions effectively. It allows users to create accounts and track their study activity in a structured way.
 
+## GitLink
+https://github.com/saiedjames7/StudyTracker
+
 ## Target Users
 
 This application is intended for students, including:
